@@ -1,5 +1,5 @@
 # dmc2gym
-Simplest wrapper to convert DMC environment to Gym environment
+Simplest wrapper for converting DMC environment to Gym environment
 
 ### installation
 
